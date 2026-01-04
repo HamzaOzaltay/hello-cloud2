@@ -5,7 +5,7 @@ import psycopg2
 app = Flask(__name__)
 
 # Burayı birazdan Render'dan alacağımız linkle değiştireceğiz
-DATABASE_URL = os.getenv("DATABASE_URL", "")
+DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://hamza:ZY8FH80XLY7wTK43bigODSXIc3KVto8p@dpg-d5davbruibrs73fs3ivg-a.oregon-postgres.render.com/hello_cloud3_db_005b")
 
 HTML = """
 <!doctype html>
