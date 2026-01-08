@@ -10,7 +10,7 @@ DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://hamza:ZY8FH80XLY7wTK43big
 HTML = """
 <!doctype html>
 <html>
-<head><title>Buluttan Selam!</title></head>
+<head><title>Hüseyin Hamza Özaltay</title></head>
 <body>
     <h1>Buluttan Selam!</h1>
     <form method="POST">
