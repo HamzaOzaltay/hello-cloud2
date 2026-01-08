@@ -19,7 +19,7 @@ HTML = """
     </style>
 </head>
 <body>
-    <h1>Mikro Hizmetli Selam!</h1>
+    <h1>Hüseyin Hamza Özaltay</h1>
     <p>Adını yaz</p>
     <form method="POST">
         <input type="text" name="isim" placeholder="Adını yaz" required>
